@@ -1,0 +1,16 @@
+name: ${project.name}
+description: ${project.description}
+version: ${project.version}
+authors: [ LuuckA ]
+main: me.luucka.duels.DuelsPlugin
+api-version: 1.17
+depend: [ LCore ]
+softdepend: [ PlaceholderAPI ]
+commands:
+  duels:
+    description: Join a Duel
+  darena:
+    description: Setup Duels arenas
+permissions:
+  duels.admin:
+    description: The Admin permission for the plugin

@@ -1,0 +1,22 @@
+prefix: "&7[&3&lDuels&7] "
+reload: "&aPlugin reload!"
+
+# Error
+no-perm: "&cInsufficient permissions"
+no-console: "&cOnly player can run this command"
+already-in-setup: "&cYou are already in setup mode!"
+
+# Arena
+no-arena-setup: "&cNo arenas have been setup!"
+arena-not-exists: "&cArena with this name does not exists!"
+delete-arena-success: "&cYou have delete Arena %ARENA_NAME%"
+
+# Setup
+join-setup-mode: "&aSetup mode for: &7%ARENA_NAME%"
+cant-save-arena: "&cPlease before save set Position One and Two"
+
+# Duels
+cant-join: "&cNo arenas are open. Try again in a bit!"
+already-join: "&cYou are already in an arena!"
+not-in-arena: "&cYou are not in an arena!"
+left-arena: "&aYou left the arena!"

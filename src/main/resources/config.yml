@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+setup-item:
+  set-position-one:
+    type: STICK
+    name: "&aSet location One &7(Right click)"
+    lore: []
+  set-position-two:
+    type: BLAZE_ROD
+    name: "&aSet location Two &7(Right click)"
+    lore: []
+  set-display-name:
+    type: PAPER
+    name: "&aSet display name &7(Right click)"
+    lore: []
+  save:
+    type: DIAMOND
+    name: "&aSave &7(Right click)"
+    lore: []
+  cancel:
+    type: BARRIER
+    name: "&cCancel &7(Right click)"
+    lore: []
